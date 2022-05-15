@@ -1,5 +1,5 @@
-# Predicting Annotation Difficulty to Mitigate Annotator bias
-This is the code repository for the master thesis Predicting Annotation Difficulty to Mitigate Annotator bias. 
+# Predicting Annotation Difficulty to Mitigate Annotator Bias
+This is the code repository for the master thesis Predicting Annotation Difficulty to Mitigate Annotator Bias. 
 The thesis investigates the demographic factors of annotator bias and presents a novel approach to mitigate this bias efficiently.
 
 This thesis presents an annotation approach where tweets with unambigous sentiment is annotated using a single annotator setup and ambigous tweets are labeled using five annotators. To identify the two classes, a machine learning algorithm is used.
