@@ -7,9 +7,9 @@ This thesis presents a annotation approach where tweets with unambigous sentimen
 ![Annotation Approach](task_routing.png)
 
 ### Data
-Contains annotator data and pre-embedded tweets
+Contains annotator data and pre-embedded tweets.
 
-### Data Analysis
+### Data Analysis
 Data exploration and statistical analysis
 
 ### ML Algorithms
