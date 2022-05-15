@@ -8,11 +8,11 @@ This thesis presents an annotation approach where tweets with unambigous sentime
 
 For the thesis the Dutch dataset was created by getting annotations for Dutch tweets from over 90 different annotators. The english dataset was collected from the internet.
 
-### Data
+## Data
 Contains annotator data, tweets and pre-embedded tweets.
 
-### Data Analysis
+## Data Analysis
 Data exploration and statistical analysis.
 
-### ML Algorithms
+## ML Algorithms
 Contains the Logistic Regression, XGBoost and Neural Network models. An evaluation of the models can be seen under Model Analysis.
