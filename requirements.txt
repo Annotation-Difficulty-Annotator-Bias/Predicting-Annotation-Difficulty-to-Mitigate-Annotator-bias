@@ -1,0 +1,10 @@
+tensorflow
+xgboost
+pandas
+numpy
+sklearn
+matplotlib
+plotly
+tensorflow_hub
+tensorflow_addons
+tensorflow_text
